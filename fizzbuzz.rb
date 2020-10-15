@@ -9,4 +9,3 @@ def fizzbuzz
     "FizzBuzz"
   end
 end
-end
