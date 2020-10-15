@@ -7,4 +7,6 @@ def fizzbuzz
     "Buzz"
   else
     "FizzBuzz"
+  end
+end
 end
